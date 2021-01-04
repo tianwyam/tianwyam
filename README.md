@@ -2,6 +2,9 @@
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/tianwyam/count.svg" />
+    
+[![tianwyam's github stats](https://profile-counter.glitch.me/tianwyam/count.svg)](https://github.com/tianwyam)
+
 </p>
 
 ### ✨ My Github Stats ✨
