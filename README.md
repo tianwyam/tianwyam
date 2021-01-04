@@ -1,11 +1,12 @@
 ### 🌱 I’m learning ...
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/tianwyam/count.svg" />
-    
+<div align="center"> 
+
+Visitor Count
+<br/>
 [![tianwyam's github stats](https://profile-counter.glitch.me/tianwyam/count.svg)](https://profile-counter.glitch.me/tianwyam/count.svg)
 
-</p>
+</div>
 
 ### ✨ My Github Stats ✨
 <div align = "center">
