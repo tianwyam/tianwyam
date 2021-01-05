@@ -19,11 +19,16 @@
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - java
 - spring\springboot\springcloud
+
 - linux
+
 - mysql\oracle\postgres
+
 - svn\git\maven
+
 
 
 <br/>
