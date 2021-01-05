@@ -10,11 +10,12 @@ Visitor Count
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianwyam&theme=buefy&show_icons=true&hide=prs,issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianwyam&theme=buefy&layout=compact" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=tianwyam&theme=buefy&show_icons=true&hide=prs,issues" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianwyam&theme=buefy&layout=compact" />
 </a>
 
 <br/>
+
 
 
 
