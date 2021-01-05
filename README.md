@@ -7,20 +7,15 @@ Visitor Count
 <img src="https://profile-counter.glitch.me/tianwyam/count.svg" />
 </div>
 
-### ✨ My Github Stats ✨
-<div align = "center">
-  
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=tianwyam&hide=contribs,prs,issues&theme=radical)](https://github.com/tianwyam)
+<br/>
 
-</div>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianwyam&theme=buefy&show_icons=true&hide=prs,issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianwyam&theme=buefy&layout=compact" />
+</a>
 
+<br/>
 
-### ✨ My Github Top Langs ✨
-<div align = "center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianwyam&layout=compact)](https://github.com/tianwyam)
-
-</div>
 
 
 ⭐️ From [Tianwyam](https://github.com/tianwyam) 
