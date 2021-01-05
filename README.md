@@ -4,8 +4,7 @@
 
 Visitor Count
 <br/>
-[![Visitor Count](https://profile-counter.glitch.me/tianwyam/count.svg)](https://profile-counter.glitch.me/tianwyam/count.svg)
-
+<img src="https://profile-counter.glitch.me/tianwyam/count.svg" />
 </div>
 
 ### ✨ My Github Stats ✨
