@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technology Stack</h3>
 
 - java
 - spring\springboot\springcloud
